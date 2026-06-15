@@ -1,6 +1,5 @@
 # 📊 Sales Data Pipeline (ETL Project)
 
- Project Overview
 This project implements an end-to-end **ETL (Extract, Transform, Load) data pipeline** using Python, Pandas, and SQLite.  
 The pipeline processes raw global sales data, cleans and transforms it, and stores the processed data in a SQL database for analysis.
 
